@@ -6,7 +6,8 @@
 ---
 ### Meus Interesses:
 Estudos:
-- Front-End
+- Backend
+- Frontend
 - UX
 
 Pessoais:
