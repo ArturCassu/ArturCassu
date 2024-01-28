@@ -1,26 +1,5 @@
 ### Oi **'-'**
 
-- Meu nome é Artur
-- Estudo atualmente no Instituto J&F
-- Estagio pela escola na PicPay como programador
----
-### Meus Interesses:
-Estudos:
-- Backend
-- Frontend
-- UX
-
-Pessoais:
-- Música
-- Jogos
----
-### Contato:
-Se por algum motivo você precisar me contatar me manda um e-mail
-
-artur.cdj@gmail.com
-
-Não garanto que eu vá ver. 👍
-
 ![](https://media.tenor.com/AJ5wuFC5F00AAAAd/hollow-knight.gif)
 <!--
 **ArturCassu/ArturCassu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
