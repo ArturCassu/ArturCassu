@@ -1,5 +1,8 @@
 ### Oi **'-'**
 
+![](https://media.tenor.com/AJ5wuFC5F00AAAAd/hollow-knight.gif)
+
+
 <h2 align="center">I'm a Brazilian student at Instituto J&F and work as a developer at PicPay</h2>
 
 ###
@@ -97,5 +100,3 @@
 </div>
 
 ###
-
-![](https://media.tenor.com/AJ5wuFC5F00AAAAd/hollow-knight.gif)
