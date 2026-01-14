@@ -3,7 +3,7 @@
 ![](https://media.tenor.com/AJ5wuFC5F00AAAAd/hollow-knight.gif)
 
 
-<h2 align="center">I'm a Brazilian student at Instituto J&F and work as a developer at PicPay</h2>
+<h2 align="center">I'm Brazilian and work as a developer at PicPay</h2>
 
 ###
 
@@ -90,6 +90,11 @@
 ###
 
 <img src="https://raw.githubusercontent.com/ArturCass/ArturCass/output/snake.svg" alt="Snake animation" />
+
+###
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ###
 
