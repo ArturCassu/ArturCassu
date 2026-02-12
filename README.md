@@ -1,7 +1,7 @@
 ### Oi **'-'**
-
+<!--
 ![](https://media.tenor.com/AJ5wuFC5F00AAAAd/hollow-knight.gif)
-
+-->
 
 <h2 align="center">I'm Brazilian and work as a developer at PicPay</h2>
 
