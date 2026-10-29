@@ -1,9 +1,8 @@
-### Oi **'-'**
-<!--
-![](https://media.tenor.com/AJ5wuFC5F00AAAAd/hollow-knight.gif)
--->
+# Artur Cassuriaga
 
-<h2 align="center">I'm Brazilian and work as a developer at PicPay</h2>
+IT Analyst Pleno at PicPay. Backend developer working with Go, Java, Python, and TypeScript, and with Kafka and AWS.
+
+Computer Engineering at FIAP.
 
 ###
 
@@ -89,7 +88,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ArturCass/ArturCass/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ArturCassu/ArturCassu/output/snake.svg" alt="Snake animation" />
 
 ###
 
